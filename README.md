@@ -1,3 +1,6 @@
+![GitHub Logo](C:/Users/User/ML/MY PROJECTS/Asteroid Diameter prediction/123.png)
+Format: ![Alt Text](url)
+
 The idea for the project was born from the fact that while we were searching for topic we came across a catchy line 
 ' Asteroid bigger than Burj khalifa to fly by Earth ' 
 
